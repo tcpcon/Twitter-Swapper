@@ -1,14 +1,14 @@
 package main
 
 import (
-	"fmt"
-	"math/rand"
-	"os"
-	"strconv"
+	"swapper/package/utilities"
 	"swapper/package/globals"
 	"swapper/package/twitter"
-	"swapper/package/utilities"
+	"math/rand"
+	"strconv"
 	"time"
+	"fmt"
+	"os"
 )
 
 var (
