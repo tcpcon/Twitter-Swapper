@@ -1,0 +1,14 @@
+{
+    "accounts": {
+        "accountToRecieveUsername": {
+            "authorization": "",
+            "authToken": "",
+            "xCsrfToken": ""
+        },
+        "accountWithRareUsername": {
+            "authorization": "",
+            "authToken": "",
+            "xCsrfToken": ""
+        }
+    }
+}
